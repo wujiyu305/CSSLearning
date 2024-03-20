@@ -1,1 +1,1 @@
-visiti http://csslearning.18g.cool/ for live page
+visit http://csslearning.18g.cool/ for live page.
